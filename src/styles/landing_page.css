@@ -1,0 +1,17 @@
+.centered {
+    text-align: center;
+}
+
+.linkButton { 
+
+     background:none;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+     /*border is optional*/
+     text-decoration: underline;
+     cursor: pointer;
+}
+.noStyle{
+	list-style-type: none;
+}

@@ -1,0 +1,22 @@
+.inline{
+    display: inline-block;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.block {
+    display: block;
+}
+.centered {
+    text-align: center;
+}
+
+
+.linkButton { 
+     background:none;
+     border:none; 
+     padding:0!important;
+     font: inherit;
+     /*border is optional*/
+     cursor: pointer;
+}
